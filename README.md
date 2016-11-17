@@ -1,7 +1,5 @@
 # 🐟 Welcome to the *Anglers* Github Repository! 🐟
 
-
-<<<<<<< HEAD
 [Visit the Deployed Website](https://ancient-basin-31517.herokuapp.com/landing)
 
 ## What is *Anglers*?
