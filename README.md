@@ -33,5 +33,5 @@ _________
 
 1. git clone or fork this repo
 1. run `npm install` in the terminal.
-1. run gulp in the Terminal/Command Line
+1. run `gulp` in the Terminal/Command Line
 1. copy and paste `http://localhost:3000` to your browser
