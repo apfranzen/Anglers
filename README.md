@@ -14,8 +14,10 @@
 - Blue
 - Roaring Fork
 
-### Description
-Anglers across Colorado now have the ability to view current fishing conditions including weather and river flow as well as leave tips for fellow anglers.
+### Contributors
+- Adam Franzen
+- George Vickstrom
+- Brandon Blair
 
 ### Languages and Frameworks Used
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
